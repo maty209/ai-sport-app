@@ -1,0 +1,51 @@
+[
+  {
+    "goal": "Zlep\u0161it kondici",
+    "level": "elite",
+    "training_days": 7,
+    "gender": "Mu\u017e",
+    "age": 15,
+    "training_plan": [
+      [
+        "Pond\u011bl\u00ed",
+        "intervaly"
+      ],
+      [
+        "\u00dater\u00fd",
+        "Z4"
+      ],
+      [
+        "St\u0159eda",
+        "tempov\u00fd tr\u00e9nink"
+      ],
+      [
+        "\u010ctvrtek",
+        "dlouh\u00fd b\u011bh/j\u00edzda"
+      ],
+      [
+        "P\u00e1tek",
+        "kombinovan\u00fd tr\u00e9nink"
+      ],
+      [
+        "Sobota",
+        "intervaly"
+      ],
+      [
+        "Ned\u011ble",
+        "Z4"
+      ]
+    ],
+    "meal_plan": {
+      "Sn\u00eddan\u011b": "Jogurt s granolou a ovocem",
+      "Ob\u011bd": "T\u011bstoviny se zeleninou a s\u00fdrem",
+      "Ve\u010de\u0159e": "Vejce, chl\u00e9b, zelenina",
+      "Sva\u010dina": "Jablko + o\u0159echy"
+    },
+    "nutrients": {
+      "B\u00edlkoviny": 90,
+      "Sacharidy": 220,
+      "Tuky": 55
+    },
+    "timestamp": "2025-05-11 17:35:40"
+  }
+]
